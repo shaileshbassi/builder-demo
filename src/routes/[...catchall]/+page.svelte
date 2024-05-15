@@ -13,6 +13,11 @@
   <title>Home</title>
 </svelte:head> -->
 
+<svelte:head>
+  <title>Shailesh Catch all </title>
+  <meta name="description" content="Shailesh Catch all| Svelte Demo" />
+</svelte:head>
+
 <slot />
 
 <!-- <main>
